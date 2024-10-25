@@ -1,4 +1,4 @@
-# 🛠️ Languages & Frameworks & Tools
+# 🛠️ Languages, Frameworks & Tools
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?style=for-the-badge&logo=api&logoColor=white)
@@ -23,7 +23,7 @@
 
 
 
-# Social Links
+# 🌐 Social Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkhoshvaghti/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/officila_Parsa)
 [![Telegram](https://img.shields.io/badge/Telegram-%232F8CFF.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Official_Parsa)
