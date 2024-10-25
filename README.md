@@ -13,8 +13,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTMX](https://img.shields.io/badge/htmx-%233A5EAA.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-%23E81C4A.svg?style=for-the-badge&logo=python&logoColor=white)
