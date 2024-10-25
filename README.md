@@ -1,13 +1,26 @@
+Here is the list formatted in your preferred way:
+
+---
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Linux OS](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![REST API](https://img.shields.io/badge/REST-02569B.svg?style=for-the-badge&logo=api&logoColor=white)
+![Celery](https://img.shields.io/badge/celery-%2300C7B7.svg?style=for-the-badge&logo=celery&logoColor=white)
+![Creativity](https://img.shields.io/badge/creativity-%23FF6F61.svg?style=for-the-badge&logo=creativity&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4A154B.svg?style=for-the-badge&logo=web&logoColor=white)
 
 # Databases:
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+# DevOps Tools:
+![DevOps Tools](https://img.shields.io/badge/DevOps%20Tools-0A66C2.svg?style=for-the-badge&logo=devops&logoColor=white)
 
 Here are the links to the shields.io badges for each of the specified technologies and skills:
 
