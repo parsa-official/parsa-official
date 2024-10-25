@@ -2,7 +2,6 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?style=for-the-badge&logo=api&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23E63946.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%2300C7B7.svg?style=for-the-badge&logo=celery&logoColor=white)
