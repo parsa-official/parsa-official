@@ -1,4 +1,4 @@
-Here is the list formatted in your preferred way:
+Yes, Kubernetes and Docker are essential components of the DevOps toolkit, especially for containerization and orchestration. Here's the updated section with both included:
 
 ---
 
@@ -10,7 +10,6 @@ Here is the list formatted in your preferred way:
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?style=for-the-badge&logo=api&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%2300C7B7.svg?style=for-the-badge&logo=celery&logoColor=white)
 ![Creativity](https://img.shields.io/badge/creativity-%23FF6F61.svg?style=for-the-badge&logo=creativity&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4A154B.svg?style=for-the-badge&logo=web&logoColor=white)
@@ -20,9 +19,13 @@ Here is the list formatted in your preferred way:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # DevOps Tools:
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![DevOps Tools](https://img.shields.io/badge/DevOps%20Tools-0A66C2.svg?style=for-the-badge&logo=devops&logoColor=white)
 
-Here are the links to the shields.io badges for each of the specified technologies and skills:
+--- 
+
+This setup reflects a well-rounded DevOps stack with Docker and Kubernetes included.
 
 ---
 
