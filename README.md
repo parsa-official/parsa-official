@@ -23,13 +23,7 @@
 
 
 
-### Social Links
-
-- **Telegram**:  
-  [![Telegram](https://img.shields.io/badge/Telegram-%232F8CFF.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_ID)
-
-- **Discord**:  
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/officila_Parsa)
-
-- **LinkedIn**:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_ID)
+# Social Links
+[![Telegram](https://img.shields.io/badge/Telegram-%232F8CFF.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Official_Parsa)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/officila_Parsa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkhoshvaghti/)
